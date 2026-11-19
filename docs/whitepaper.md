@@ -5,7 +5,7 @@ hide_title: true
 hide_table_of_contents: true
 description: "A white paper urging local government to prepare Isla Vista for a zombie outbreak, with a four-step plan, a cost analysis, and student survey results."
 ---
-![A crazy picture] (/img/vlad-gorshkov-G1jbCAqp5sk-unsplash.jpg)
+![A crazy picture](/img/crazy.jpg)
 # Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
 
 <div className="byline">
